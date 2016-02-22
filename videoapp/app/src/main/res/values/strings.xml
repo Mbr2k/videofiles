@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">videoapp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_camera">Take Photo!</string>
+    <string name="image_cd_camera">Image</string>
+    <string name="button_video">Stream</string>
+    <string name="replay_video">Replay</string>
+
+</resources>
